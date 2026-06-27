@@ -195,4 +195,28 @@
         <x>1420</x>
         <y>835</y>
     </global>
+    <armaline>
+        <showset>
+            <x>1412</x>
+            <y>969</y>
+        </showset>
+    </armaline>
+    <kuromush>
+        <showset>
+            <x>1415</x>
+            <y>969</y>
+        </showset>
+    </kuromush>
+    <mushpot>
+        <showset>
+            <x>1413</x>
+            <y>969</y>
+        </showset>
+    </mushpot>
+    <mushtater>
+        <showset>
+            <x>1414</x>
+            <y>969</y>
+        </showset>
+    </mushtater>
 </settings>
